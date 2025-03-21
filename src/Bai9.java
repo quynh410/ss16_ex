@@ -1,12 +1,13 @@
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Scanner;
 
 public class Bai9 {
     public static void main(String[] args) {
         ArrayList<Integer> numbers = new ArrayList<>();
-        ArrayList<Integer> primes = new ArrayList<>();
-        ArrayList<Integer> evens = new ArrayList<>();
-        ArrayList<Integer> odds = new ArrayList<>();
+        HashSet<Integer> primes = new HashSet<>();
+        HashSet<Integer> evens = new HashSet<>();
+        HashSet<Integer> odds = new HashSet<>();
 
         Scanner scanner = new Scanner(System.in);
 

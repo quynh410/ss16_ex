@@ -1,0 +1,13 @@
+Vòng lặp for – Chạy nhanh, có thể dừng
+•	Khi cần lặp qua mảng nhanh.
+•	Khi muốn dừng vòng lặp giữa chừng (break).
+Vòng lặp forEach – Dễ đọc nhưng không dừng được
+•	Khi muốn lặp qua mảng một cách đơn giản
+•	Không cần dừng vòng lặp giữa chừng
+Vòng lặp for...of – Dễ hiểu, dùng cho danh sách
+•	Khi muốn lặp qua danh sách (Array, Set, Map).
+•	Khi không cần biết chỉ số (index).
+Sử dụng stream (Java 8 trở lên)
+•	Stream API cung cấp cách duyệt và xử lý các phần tử trong Set theo phong cách lập trình hàm
+•	Các phương thức như forEach(), map(), filter()... có thể được sử dụng để thao tác dữ liệu
+
